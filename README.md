@@ -1,4 +1,4 @@
-# 🔐 Classical Cryptography Suite
+# 🔐 CipherLab:
 
 A polished, production-quality cryptography educational application with a **React frontend** and **Python (Flask) backend**. Demonstrates five classical ciphers with full encryption, decryption, step-by-step visualization, and a modern dark UI.
 
