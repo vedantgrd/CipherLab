@@ -1018,7 +1018,7 @@ function Dashboard({navigate}) {
   return (
     <div className="page">
       <div className="hero">
-        <div className="hero-eyebrow">Classical Cryptography Suite</div>
+        <div className="hero-eyebrow">What is CipherLab?</div>
         <div className="hero-title">Encryption &amp; Decryption<br/>Algorithm Visualizer</div>
         <div className="hero-sub">An interactive educational environment for exploring classical cryptographic algorithms.</div>
       </div>
@@ -1055,11 +1055,11 @@ function Dashboard({navigate}) {
 // ── About Page ─────────────────────────────────────────────────────────────
 function AboutPage() {
   const team = [
-    {name:'Yash Krishna Patil',  roll:'2024PE0356', extra:''},
+    {name:'Yash Krishna Patil',  roll:'2024PE0356', extra:'Roll No: 510'},
     {name:'Rushikesh Vichare',   roll:'2025PE0323', extra:'Roll No: 504'},
     {name:'Vedant Garud',        roll:'2025PE0316', extra:'Roll No: 502'},
-    {name:'Aryan Govekar',       roll:'2024PE0362', extra:''},
-    {name:'Akshat Vijesh',       roll:'2024PE0144', extra:''},
+    {name:'Aryan Govekar',       roll:'2024PE0362', extra:'Roll No: 506'},
+    {name:'Akshat Vijesh',       roll:'2024PE0144', extra:'Roll No: 514'},
   ];
   const algos = [
     {name:'Caesar Cipher',       type:'Monoalphabetic Substitution',  formula:'C = (P+K) mod 26'},
@@ -1171,8 +1171,8 @@ function App() {
       {/* Sidebar */}
       <div className="sidebar">
         <div className="sidebar-logo">
-          <div className="sidebar-logo-title">◇ CRYPTO</div>
-          <div className="sidebar-logo-sub">SUITE</div>
+          <div className="sidebar-logo-title">◇ CipherLab</div>
+          <div className="sidebar-logo-sub">Cryptography-Suite</div>
         </div>
         {NAV.map((sec,si)=>(
           <div key={si}>
