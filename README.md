@@ -133,13 +133,14 @@ All endpoints accept `{"text": "...", "mode": "encrypt"|"decrypt", "showSteps": 
 
 ## Team
 
-| Name | Roll Number | Note |
-|---|---|---|
-| Yash Krishna Patil | 2024PE0356 | |
-| Rushikesh Vichare | 2025PE0323 | Roll No: 504 |
-| Vedant Garud | 2025PE0316 | Roll No: 502 |
-| Aryan Govekar | 2024PE0362 | |
-| Akshat Vijesh | 2024PE0144 | |
+| Name | Admission Number | Roll No. |
+| :---: | :---: | :---: |
+| Yash Krishna Patil | 2024PE0356 | 510 |
+| Rushikesh Vichare | 2025PE0323 | 504 |
+| Vedant Garud | 2025PE0316 | 502 |
+| Aryan Govekar | 2024PE0362 | 506 |
+| Akshat Vijesh | 2024PE0144 | 514 |
+
 
 ---
 
